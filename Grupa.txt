@@ -1,0 +1,4 @@
+grupa_1 = "18-23 lat"
+grupa_2 = "24-39 lat"
+grupa_3 = "40-55 lat"
+grupa_4 = '56 lat i więcej'
